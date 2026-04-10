@@ -1,0 +1,24 @@
+{
+    "url": "https://rahulshettyacademy.com/client/#/auth/login",
+    "loginAPIEndpoint": "https://rahulshettyacademy.com/api/ecom/auth/login",
+    "orderAPIEndpoint": "https://rahulshettyacademy.com/api/ecom/order/get-orders-details?id=",
+    "user": {
+        "email": "ngsagent0001@gmail.com",
+        "password": "Festo!1234"
+    },
+       "seconduser": {
+        "email": "ngsagent0002@gmail.com",
+        "password": "Festo!12345"
+    },
+    "invaliduser": {
+        "email": "ngsagent@gmail.com",
+        "password": "Festo"
+    },
+    "productName": "ZARA COAT 3",
+    "country": "India",
+    "expectedConfirmationMessage": "THANKYOU FOR THE ORDER.",
+    "cvv": "123",
+    "cardholderName": "Test User"
+    
+
+}
